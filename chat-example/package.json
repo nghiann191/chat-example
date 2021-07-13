@@ -1,0 +1,16 @@
+{
+  "name": "socketio-example",
+  "version": "1.0.0",
+  "description": "example",
+  "main": "index.js",
+  "author": "N3",
+  "license": "MIT",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "dependencies": {
+    "express": "4",
+    "nodemon": "^2.0.12",
+    "socket.io": "^4.1.2"
+  }
+}
